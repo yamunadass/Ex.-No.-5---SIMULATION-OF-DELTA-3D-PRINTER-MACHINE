@@ -25,14 +25,14 @@
 ### 3.	Move the z3-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z3-axis assembly.
 
 ## OUTPUT:
-![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/10304caa-3e0f-4c4a-bd73-3cadb477a64b)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066)
+![Screenshot 2023-11-21 191524](https://github.com/yamunadass/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/138971172/c62af0e7-d88a-465c-a68c-bd651eef4633)
+![Screenshot 2023-11-21 191547](https://github.com/yamunadass/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/138971172/b9696c62-ab53-489d-af1f-b3075b01db4d)
 
 ## Output:
+![Screenshot 2023-11-21 191602](https://github.com/yamunadass/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/138971172/1544c482-f2c6-4896-a2ce-470e7adf551b)
 
-### Name:
-### Register Number:
+### Name: Yamuna M
+### Register Number: 23005405
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
